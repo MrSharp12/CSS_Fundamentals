@@ -5,18 +5,23 @@ body {
 }
 
 .box {
-    margin: 5px;
     padding: 5px;
     border: 2px solid black;
 }
 
 .outer {
+    position: absolute;
+    top: 25%;
+    left: 25%;
     width: 50%;
     height: 50%;
     background-color: blue;
 }
 
 .inner {
+    position: relative;
+    top: 15px;
+    left: 15px;
     width: 50%;
     height: 50%;
     background-color: red;

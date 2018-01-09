@@ -5,6 +5,11 @@ p {
     color: red;
 }
 
+p:hover {
+    border: 2px solid black;
+}
+
+/*
 #one { background-color: blue; }
 
 #two { color: red; }
@@ -20,3 +25,4 @@ p {
 .round-border { border-radius: 10px; }
 
 .text-style { font-style: italic; }
+*/
