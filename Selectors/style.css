@@ -1,0 +1,22 @@
+body { background-color: coral; }
+
+p { 
+    font-family: sans-serif; 
+    color: red;
+}
+
+#one { background-color: blue; }
+
+#two { color: red; }
+
+#three { color: brown; }
+
+#four { color: ghostwhite; }
+
+.border { border: 5px solid fuchsia; }
+
+.background-black { background-color: black; }
+
+.round-border { border-radius: 10px; }
+
+.text-style { font-style: italic; }
